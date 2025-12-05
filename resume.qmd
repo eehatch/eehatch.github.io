@@ -6,82 +6,58 @@ title: Emily Hatch Resume
 Computer Information Technology
 
 <div id="webaddress">
-<a href="ehatche@gmail.com">ehatche@gmail.com</a>
+<a href="mailto:ehatche@gmail.com">ehatche@gmail.com</a>
+<a href="https://www.linkedin.com/in/emily-hatch-byui">linkedin.com/in/emily-hatch-byui</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Pursuing a Bachelor's degree in Computer Information Technology with hands-on experience in programming, networking, and technical problem-solving.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Python, HTML, CSS, JavaScript, C#, SQL, AWS, GitHub, Unreal Engine (C++/Shaders)
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Software engineering, network systems, cybersecurity, game development, cloud technologies.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected Apr. 2026`  
+__Brigham Young University – Idaho__, Rexburg, ID  
+- B.S. in Computer Information Technology  
+- Certification: CompTIA Security+  
+- Classroom experience with Python, HTML, CSS, JavaScript, C#, SQL, AWS, GitHub  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Experience
 
-- Sizar
+`Apr. 2025 – Sept. 2025`  
+__Baker__, Jacob Lake Inn — Fredonia, AZ
 
-`1667 - death`
-__Trinity College, Cambridge__
+`May 2024 – Aug. 2024`  
+__Applied Tech Intern__, Dimension Studios — London, UK  
+- Completed technical projects involving C++ and shader coding in Unreal Engine  
+- Demonstrated independence and resourcefulness  
+- Collaborated effectively both online and in person  
 
-- Fellow
+`Nov. 2021 – May 2023`  
+__Full-Time Volunteer__, The Church of Jesus Christ of Latter-day Saints — Ogden, UT  
+- Worked 70-hour weeks while serving in leadership roles, including trainer for new volunteers  
+- Became fluent in American Sign Language and taught it to others  
 
+`Aug. 2021 – Nov. 2021`  
+__Emissions Compliance Intern__, PACCAR — Bellevue, WA  
+- Reviewed and developed certification processes aligned with EPA and CARB requirements  
+- Studied naming structures, labeling, and serialization processes  
+- Compiled regulatory information into presentations for Senior Management  
 
+## Projects / Skills
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Hackathon Volunteer: supported logistics and event operations  
+- Experienced with Cisco Packet Tracer and physical networking equipment  
+- Strong communication and teamwork skills  
+- Technical writing and presentation experience  
 
 ### Footer
 
