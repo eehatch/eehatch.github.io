@@ -39,7 +39,7 @@ __Baker__, Jacob Lake Inn — Fredonia, AZ
 __Applied Tech Intern__, Dimension Studios — London, UK  
 - Completed technical projects involving C++ and shader coding in Unreal Engine  
 - Demonstrated independence and resourcefulness  
-- Collaborated effectively both online and in person  
+- Collaborated effectively both online and in person
 
 `Nov. 2021 – May 2023`  
 __Full-Time Volunteer__, The Church of Jesus Christ of Latter-day Saints — Ogden, UT  
@@ -61,4 +61,4 @@ __Emissions Compliance Intern__, PACCAR — Bellevue, WA
 
 ### Footer
 
-Last updated: November 2025
+Last updated: December 2025
